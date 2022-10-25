@@ -1,1 +1,1 @@
-# vs2022
+# VS2022 project
